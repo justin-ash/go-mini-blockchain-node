@@ -1,3 +1,3 @@
-module github.com/YOUR_GITHUB_USERNAME/go-mini-blockchain-node
+module github.com/justin-ash/go-mini-blockchain-node
 
 go 1.22

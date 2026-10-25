@@ -21,8 +21,7 @@ An educational, single-node blockchain prototype written in Go. It demonstrates 
 ## Run
 
 1. Create a GitHub repository named `go-mini-blockchain-node`.
-2. Replace `YOUR_GITHUB_USERNAME` in `go.mod` with your GitHub username (or change the module path to your preferred module path).
-3. From this directory, run:
+2. From this directory, run:
 
 ```bash
 go test ./...
